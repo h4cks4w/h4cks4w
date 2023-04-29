@@ -1,9 +1,9 @@
-⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ
+⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ
  Hey there! 👋😃
 
 I'm Hacksaw! I'm a White/Gray Hat Hacker👨🏿‍💻, Cybersecurity student🔒, and Coder🖥, who created an independent organization called Project H@ck$aw. I am passionate about Computers, Ethical Hacking & anything Tech related🖥️📱💻. I own a Variety of Pen Testing Tools Such as the Flipper Zero and a Bunch of Raspberry Pi Products. Currently, I am learning Python & C.
 
-📍 I am from Georgia, US and Proudly Indian, you can reach me on Discord at Hack$aw#7266 or yuh#3045. You can also email me at projecthacksaw8@gmail.com.
+📍 I am from Georgia, US and Proudly Indian🇮🇳, you can reach me on Discord at Hack$aw#7266 or yuh#3045. You can also email me at Projecthacksaw8@gmail.com.
 
 If you find my projects interesting, please do give a 🌟 to my repositories. Your support means a lot!
 
@@ -31,4 +31,4 @@ Product & Tools that I use
 Thanks for Visiting!😇
 
 
-⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ
+⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ
