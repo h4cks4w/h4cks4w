@@ -1,5 +1,6 @@
 ⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ☾ ﾟ｡ ⋆⋆｡ ﾟ☁︎｡ ⋆｡ ﾟ
- Hey there! 👋😃
+
+Hey there! 👋😃
 
 I'm Hacksaw! I'm a White/Gray Hat Hacker👨🏿‍💻, Cybersecurity student🔒, and Coder🖥, who created an independent organization called Project H@ck$aw. I am passionate about Computers, Ethical Hacking & anything Tech related🖥️📱💻. I own a Variety of Pen Testing Tools Such as the Flipper Zero and a Bunch of Raspberry Pi Products. Currently, I am learning Python & C.
 
